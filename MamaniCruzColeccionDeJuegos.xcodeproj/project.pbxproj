@@ -14,6 +14,7 @@
 		7DA0DBD12BE960BA009CC9D4 /* MamaniCruzColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7DA0DBCF2BE960BA009CC9D4 /* MamaniCruzColeccionDeJuegos.xcdatamodeld */; };
 		7DA0DBD32BE960C4009CC9D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DA0DBD22BE960C4009CC9D4 /* Assets.xcassets */; };
 		7DA0DBD62BE960C4009CC9D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DA0DBD42BE960C4009CC9D4 /* LaunchScreen.storyboard */; };
+		7DA0DBDE2BE9716F009CC9D4 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DA0DBDD2BE9716F009CC9D4 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7DA0DBD22BE960C4009CC9D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7DA0DBD52BE960C4009CC9D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7DA0DBD72BE960C4009CC9D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DA0DBDD2BE9716F009CC9D4 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				7DA0DBC82BE960BA009CC9D4 /* SceneDelegate.swift */,
 				7DA0DBCA2BE960BA009CC9D4 /* ViewController.swift */,
 				7DA0DBCC2BE960BA009CC9D4 /* Main.storyboard */,
+				7DA0DBDD2BE9716F009CC9D4 /* JuegosViewController.swift */,
 				7DA0DBD22BE960C4009CC9D4 /* Assets.xcassets */,
 				7DA0DBD42BE960C4009CC9D4 /* LaunchScreen.storyboard */,
 				7DA0DBD72BE960C4009CC9D4 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7DA0DBDE2BE9716F009CC9D4 /* JuegosViewController.swift in Sources */,
 				7DA0DBD12BE960BA009CC9D4 /* MamaniCruzColeccionDeJuegos.xcdatamodeld in Sources */,
 				7DA0DBCB2BE960BA009CC9D4 /* ViewController.swift in Sources */,
 				7DA0DBC72BE960BA009CC9D4 /* AppDelegate.swift in Sources */,
